@@ -2,5 +2,5 @@
   { "id": 1, "name": "Live 1", "type": "youtube", "url": "https://www.youtube.com/embed/5uFOH3ZLykw" },
   { "id": 2, "name": "Live 2", "type": "iframe", "url": "https://ok.ru/videoembed/9615401426485?nochat=1&autoplay=0" },
   { "id": 3, "name": "Live 4", "type": "hls", "url": "https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8" },
-  { "id": 4, "name": "Live 5", "type": "hls", "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8" }
+  { "id": 4, "name": "Live 5", "type": "jwplayer", "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8" }
 ]
