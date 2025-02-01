@@ -1,6 +1,6 @@
 [
   { "id": 1, "name": "Live 1", "type": "youtube", "url": "https://www.youtube.com/embed/5uFOH3ZLykw" },
-  { "id": 2, "name": "Live 2", "type": "iframe", "url": "https://ok.ru/videoembed/9758138572473?nochat=1&autoplay=0" },
+  { "id": 2, "name": "Live 2", "type": "iframe", "url": "https://ok.ru/videoembed/9615399394869?nochat=1&autoplay=0" },
   { "id": 3, "name": "Live 3", "type": "hls", "url": "https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8" },
   { "id": 5, "name": "Live 5", "type": "jwplayer", "url": "https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8" }
 ]
